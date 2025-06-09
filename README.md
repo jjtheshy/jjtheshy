@@ -14,10 +14,10 @@ I am a software engineer dedicated to Java,C#,DotNet, cloud-native technologies 
 ▼ 2025
 * Spring AI
 
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=jjtheshy&amp;show_icons=true&amp;theme=gruvbox)
+![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=jjtheshy&amp;show_icons=true&amp;theme=default)
 
 
-![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=jjtheshy&amp;layout=compact&amp;theme=gruvbox)
+![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=jjtheshy&amp;layout=compact&amp;theme=default)
 
 ##  Languages I use
 [![My Skills](https://skillicons.dev/icons?i=java,cs,go,vue,react&theme=light)]([https://skillicons.dev](https://github.com/sunyuhan1998))
